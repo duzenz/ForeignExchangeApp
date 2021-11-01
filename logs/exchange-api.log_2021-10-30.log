@@ -1,4 +1,0 @@
-2021-10-30 23:34:47 INFO  [com.openpayd.exchange.ExchangeApiApplication|main] com.openpayd.exchange.ExchangeApiApplication - Starting ExchangeApiApplication using Java 11.0.7 on CLAIRIST1-00063 with PID 26016 (C:\Users\zafer.duzen\projects\ExchangeApi\target\classes started by zafer.duzen in C:\Users\zafer.duzen\projects\ExchangeApi) 
-2021-10-30 23:34:47 DEBUG [com.openpayd.exchange.ExchangeApiApplication|main] com.openpayd.exchange.ExchangeApiApplication - Running with Spring Boot v2.5.6, Spring v5.3.12 
-2021-10-30 23:34:47 INFO  [com.openpayd.exchange.ExchangeApiApplication|main] com.openpayd.exchange.ExchangeApiApplication - No active profile set, falling back to default profiles: default 
-2021-10-30 23:34:50 INFO  [com.openpayd.exchange.ExchangeApiApplication|main] com.openpayd.exchange.ExchangeApiApplication - Started ExchangeApiApplication in 2.738 seconds (JVM running for 4.336) 
